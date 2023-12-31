@@ -1,4 +1,4 @@
-README
+README V 0.1
 
 
 NR2003 Tandem Drafting mod by NR2003_Ryan
