@@ -23,6 +23,8 @@ Feel free to modify, redistribute, and publish as your own. I don’t care!
 
 First, it is recommended to install in a separate version of NR 2003. An easy way to do this is to copy and paste your NASCAR Racing 2003 Season folder, rename, and use the copy.
 
+Also, you can download the whole project by clicking on the green "Code" button and Downloading the .zip
+
 
 1. Download the NR2003_TDraft_Cup11ss.exe from this project and place it in your NASCAR Racing 2003 Season folder, or the copy that you made. When you start the game, make sure to run this .exe.
 
