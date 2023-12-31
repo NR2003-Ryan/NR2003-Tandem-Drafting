@@ -45,7 +45,7 @@ First, it is recommended to install in a separate version of NR 2003. An easy wa
    Eight Bowl: Download the track: http://www.mediafire.com/download/y3wzmz5ynzt/eight_bowl.exe or find it here: https://docs.google.com/spreadsheets/d/1RBBIzRon8LnMU4BKSaKx7CGbDl_W-r1YkYep9l5kDok/htmlview . Run the .exe installing it into your NASCAR Racing 2003 Season\tracks folder. Then, go to the “eight_bowl” folder in this project and copy and paste all of the files into NASCAR Racing 2003 Season\tracks\eight_bowl and replace existing files.
 
 
-    Talladega_revamped_2010: Download the track: https://www.drnoisepaints.com/tracks/revampedreloaded/Talladega_revamped_2010.7z or find it here: https://nr2k3.weebly.com/superspeedways.html . Run the .exe installing it into your NASCAR Racing 2003 Season\tracks folder. Then, go to the “Talladega_revamped_2010” folder in this project and copy and paste all of the files into NASCAR Racing 2003 Season\tracks\Talladega_revamped_2010 and replace existing files.
+    Talladega 2010: Download the track: https://www.drnoisepaints.com/tracks/revampedreloaded/Talladega_revamped_2010.7z or find it here: https://nr2k3.weebly.com/superspeedways.html . Run the .exe installing it into your NASCAR Racing 2003 Season\tracks folder. Then, go to the “Talladega_revamped_2010” folder in this project and copy and paste all of the files into NASCAR Racing 2003 Season\tracks\Talladega_revamped_2010 and replace existing files.
 
 
 5. Modify the Car Ratings for Cup11ss (Not strictly necessary, but it helps):
@@ -66,7 +66,7 @@ First, it is recommended to install in a separate version of NR 2003. An easy wa
 **Want to make your own version?**
 
 
-Here's how it works under the hood:
+Here's how this mod works under the hood:
 
 
 1. Modified .exe
